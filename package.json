@@ -1,0 +1,14 @@
+{
+  "name": "svg-benchmarks",
+  "version": "0.0.1",
+  "description": "Benchmarks for SVG icons.",
+  "author": "Kurt Ruppel <me@kurtruppel.com>",
+  "license": "WTFPL",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "karma": "^0.12.24",
+    "karma-benchmark": "^0.4.0",
+    "karma-benchmark-reporter": "^0.1.1",
+    "karma-chrome-launcher": "^0.1.5"
+  }
+}
